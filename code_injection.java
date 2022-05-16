@@ -1,6 +1,6 @@
 import javax.script.*;
 
-public class Example1 {
+public class Example1 {//
 	public static void main(String[] args) {
 		try {
 			ScriptEngineManager manager = new ScriptEngineManager();
